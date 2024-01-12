@@ -168,7 +168,7 @@ function TypeName() {
             mt={2}
             padding={5}
           >
-            Open Resume
+            Resume
           </Button>
         </Flex>
       </Flex>
